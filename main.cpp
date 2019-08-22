@@ -42,8 +42,8 @@ int main (int, char * []){
     // 16) 19
     // 17) ERROR
     // 18) 18
-    // 19)
-    // 20)
+    // 19) Disminuye en uno todas las direcciones del array.
+    // 20) Elimina todos las comas del array.
     
     
     return 1;
